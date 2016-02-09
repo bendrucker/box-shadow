@@ -20,6 +20,11 @@ test(function (t) {
   }), '1px 2px 3px rgba(4,5,6,0.7)', 'no spread')
 
   t.equal(boxShadow({
+    y: 2,
+    color: [4, 5, 6, 0.7]
+  }), '0px 2px rgba(4,5,6,0.7)', 'no x')
+
+  t.equal(boxShadow({
     x: 1,
     y: 2,
     blur: 3,
