@@ -45,6 +45,8 @@ These can be strings (`1em`) or numbers to be converted to pixels (`2` -> `2px`)
 
 Additionally, `data` requires a `color` property to be passed to [color-style](https://github.com/mattdesl/color-style). This can be a simple string (`red`) or an array of RGBA values (`[204, 54, 51, 0.5]`).
 
+`data` can also be an array of box shadow objects that will be stringified and joined.
+
 
 ## License
 
