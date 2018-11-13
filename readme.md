@@ -1,4 +1,4 @@
-# box-shadow [![Build Status](https://travis-ci.org/bendrucker/box-shadow.svg?branch=master)](https://travis-ci.org/bendrucker/box-shadow)
+# box-shadow [![Build Status](https://travis-ci.org/bendrucker/box-shadow.svg?branch=master)](https://travis-ci.org/bendrucker/box-shadow) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/box-shadow.svg)](https://greenkeeper.io/)
 
 > Create a CSS box shadow using JS objects
 
